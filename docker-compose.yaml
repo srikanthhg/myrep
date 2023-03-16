@@ -1,2 +1,3 @@
+version: "3.9"
 nginx:
 image: nginx
