@@ -2,3 +2,7 @@ version: "3.9"
 services:
  nginx:
   image: nginx
+ alpine:
+  image: alpine
+ myimage:
+  image: almalinux
