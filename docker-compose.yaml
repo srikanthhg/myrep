@@ -6,3 +6,4 @@ services:
   image: alpine
  myimage:
   image: almalinux
+  container_name: alma
